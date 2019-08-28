@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4811e61c-d43e-4855-af00-d7fd91d0dc3e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MessengerBundle/Command/SocketCommand.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/MessengerBundle/Command/SocketCommand.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/users/index.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/users/index.html.twig" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,7 +24,7 @@
         <entry file="file://$PROJECT_DIR$/templates/users/index.html.twig">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="206">
-              <caret line="29" column="44" selection-start-line="29" selection-start-column="44" selection-end-line="29" selection-end-column="44" />
+              <caret line="29" column="47" selection-start-line="29" selection-start-column="47" selection-end-line="29" selection-end-column="47" />
             </state>
           </provider>
         </entry>
@@ -31,8 +32,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MessengerBundle/Command/SocketCommand.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-11">
-              <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+            <state relative-caret-position="297">
+              <caret line="40" column="16" lean-forward="true" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="16" />
               <folding>
                 <element signature="e#49#86#0#PHP" expanded="true" />
               </folding>
@@ -55,10 +56,10 @@
         <option value="$PROJECT_DIR$/src/Server/Sockets/Chat.php" />
         <option value="$PROJECT_DIR$/src/Command/SocketCommand.php" />
         <option value="$PROJECT_DIR$/src/MessengerBundle/Sockets/Chat.php" />
-        <option value="$PROJECT_DIR$/src/MessengerBundle/Command/SocketCommand.php" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/.env" />
         <option value="$PROJECT_DIR$/templates/users/index.html.twig" />
+        <option value="$PROJECT_DIR$/src/MessengerBundle/Command/SocketCommand.php" />
       </list>
     </option>
   </component>
@@ -282,12 +283,12 @@
       <updated>1566932090953</updated>
       <workItem from="1566932099726" duration="6247000" />
       <workItem from="1567028569764" duration="4000" />
-      <workItem from="1567028662938" duration="1461000" />
+      <workItem from="1567028662938" duration="2089000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7712000" />
+    <option name="totallyTimeSpent" value="8340000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -423,8 +424,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MessengerBundle/Command/SocketCommand.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-11">
-          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        <state relative-caret-position="297">
+          <caret line="40" column="16" lean-forward="true" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="16" />
           <folding>
             <element signature="e#49#86#0#PHP" expanded="true" />
           </folding>
@@ -434,7 +435,7 @@
     <entry file="file://$PROJECT_DIR$/templates/users/index.html.twig">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="206">
-          <caret line="29" column="44" selection-start-line="29" selection-start-column="44" selection-end-line="29" selection-end-column="44" />
+          <caret line="29" column="47" selection-start-line="29" selection-start-column="47" selection-end-line="29" selection-end-column="47" />
         </state>
       </provider>
     </entry>
