@@ -9,8 +9,7 @@
 composer.lock
 ###> symfony/web-server-bundle ###
 /.web-server-pid
-###< symfony/web-server-bundle ###
-/public/media/cache/
+###< symfony/web-s
 
 ###> symfony/phpunit-bridge ###
 .phpunit
