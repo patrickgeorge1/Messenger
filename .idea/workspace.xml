@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4811e61c-d43e-4855-af00-d7fd91d0dc3e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MessengerBundle/Command/SocketCommand.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/MessengerBundle/Command/SocketCommand.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/users/index.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/users/index.html.twig" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,7 +23,7 @@
         <entry file="file://$PROJECT_DIR$/templates/users/index.html.twig">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="206">
-              <caret line="29" column="47" selection-start-line="29" selection-start-column="47" selection-end-line="29" selection-end-column="47" />
+              <caret line="29" column="49" selection-start-line="29" selection-start-column="49" selection-end-line="29" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -58,8 +57,8 @@
         <option value="$PROJECT_DIR$/src/MessengerBundle/Sockets/Chat.php" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/.env" />
-        <option value="$PROJECT_DIR$/templates/users/index.html.twig" />
         <option value="$PROJECT_DIR$/src/MessengerBundle/Command/SocketCommand.php" />
+        <option value="$PROJECT_DIR$/templates/users/index.html.twig" />
       </list>
     </option>
   </component>
@@ -283,12 +282,12 @@
       <updated>1566932090953</updated>
       <workItem from="1566932099726" duration="6247000" />
       <workItem from="1567028569764" duration="4000" />
-      <workItem from="1567028662938" duration="2089000" />
+      <workItem from="1567028662938" duration="2163000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8340000" />
+    <option name="totallyTimeSpent" value="8414000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -435,7 +434,7 @@
     <entry file="file://$PROJECT_DIR$/templates/users/index.html.twig">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="206">
-          <caret line="29" column="47" selection-start-line="29" selection-start-column="47" selection-end-line="29" selection-end-column="47" />
+          <caret line="29" column="49" selection-start-line="29" selection-start-column="49" selection-end-line="29" selection-end-column="49" />
         </state>
       </provider>
     </entry>
