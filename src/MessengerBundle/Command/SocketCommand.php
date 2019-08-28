@@ -38,7 +38,7 @@ class SocketCommand extends Command
                     new Chat()
                 )
             ),
-            8080
+            8083
         );
 
         $server->run();

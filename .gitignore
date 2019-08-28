@@ -10,7 +10,7 @@ composer.lock
 ###> symfony/web-server-bundle ###
 /.web-server-pid
 ###< symfony/web-s
-
+.env
 ###> symfony/phpunit-bridge ###
 .phpunit
 .phpunit.result.cache
